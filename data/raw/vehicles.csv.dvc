@@ -1,6 +1,6 @@
 outs:
-- md5: 0dba3ccea4f02a6eb9bb467d610e1353
-  size: 42
+- md5: e60f57bd0942a6637389f71e220a6f89
+  size: 66
   hash: md5
   path: vehicles.csv
   isexec: true
