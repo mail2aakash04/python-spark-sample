@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/python/exercise/ditionary_examples/dict_examples.py;/Users/aakash/PycharmProjects/python-spark-sample/src/python/exercise/ditionary_examples/dict_examples_2.py;/Users/aakash/PycharmProjects/python-spark-sample/src/python/exercise/list_examples/count_example_list.py;/Users/aakash/PycharmProjects/python-spark-sample/src/python/exercise/list_examples/list_examples.py;/Users/aakash/PycharmProjects/python-spark-sample/src/python/exercise/example1.py;/Users/aakash/PycharmProjects/python-spark-sample/src/python/exercise/example2.py;/Users/aakash/PycharmProjects/python-spark-sample/src/python/exercise/example3.py;/Users/aakash/PycharmProjects/python-spark-sample/src/python/exercise/sample_main.py;/Users/aakash/PycharmProjects/python-spark-sample/src/python/pyspark-code/example-1.py" />
+  </component>
+</project>
